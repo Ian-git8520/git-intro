@@ -1,1 +1,1 @@
-console.log("hello world")
+console.log("login fim registering all available customers")
