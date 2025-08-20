@@ -1,1 +1,1 @@
-console.log("login fim registering all available customers")
+<!
